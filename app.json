@@ -41,6 +41,7 @@
         },
         "PICS": {
             "description": "Add some telegraph link of pictures .",
+            "value": "https://te.legra.ph/file/012640db59c99c7f92926.jpg",
             "required": false
         },
         "LOG_CHANNEL": {
